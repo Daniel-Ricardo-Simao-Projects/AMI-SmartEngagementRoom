@@ -1,0 +1,3 @@
+[submodule "ambint-computer-vision"]
+	path = ambint-computer-vision
+	url = git@github.com:DaniPalma2002/ambint-computer-vision.git
