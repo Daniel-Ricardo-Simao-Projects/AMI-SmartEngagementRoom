@@ -1,3 +1,6 @@
 [submodule "ambint-computer-vision"]
 	path = ambint-computer-vision
 	url = git@github.com:DaniPalma2002/ambint-computer-vision.git
+[submodule "smart-engagement-room"]
+	path = smart-engagement-room
+	url = git@github.com:rtoscanelli/smart-engagement-room.git
